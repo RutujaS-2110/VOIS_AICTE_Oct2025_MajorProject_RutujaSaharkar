@@ -1,2 +1,1 @@
-# VOIS_AICTE_Oct2025_MajorProject_RutujaSaharkar
-Netflix Data Analysis 
+# Netflix Data Analysis 
